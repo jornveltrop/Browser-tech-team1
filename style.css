@@ -66,6 +66,7 @@ li:nth-of-type(3) img {
 
 li:nth-of-type(4) img {
     animation-delay: -.6s;
+    bottom: 11.5vh;
 }
 
 div img {
