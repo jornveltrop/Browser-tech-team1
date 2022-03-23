@@ -44,7 +44,7 @@ li {
 li img {
     height: 20em;
     position: absolute;
-    bottom: 5vh;
+    bottom: 8vh;
 
     animation-name: wave;
     animation-duration: 1.5s;
