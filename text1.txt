@@ -1,3 +1,6 @@
+Progressive enhancement focuses on the content of a webpage. Within your content, HTML is the most important. This is also the part that always needs to be displayed.
+After HTML, you can look for add-ons to make the page more usable and pleasurable. You can do this with CSS and JavaScript.
+
 Progressive enhancement can be divided into 4 steps:
 
 Functional - The task needs to be executed no matter what.
