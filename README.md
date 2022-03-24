@@ -2,7 +2,7 @@
 
 ## Inhoudsopgave
 - [Opdracht 2](#opdracht-2)
-  * [1. Afbeeldingen (door Farrahton](https://github.com/ROEL2407/Browser-tech-team1#1-afbeeldingen-door-farrahton)
+  * [1. Afbeeldingen (door Farrahton)](https://github.com/ROEL2407/Browser-tech-team1#1-afbeeldingen-door-farrahton)
   * [4. Muis en trackpad (door Roel)](https://github.com/ROEL2407/Browser-tech-team1#4-muistrackpad-door-roel)
   * [5. Breedband internet (door Roel)](https://github.com/ROEL2407/Browser-tech-team1#5-breedband-internet-uitzetten-door-roel)
   * [6. JavaScript (door Farrahton)](https://github.com/ROEL2407/Browser-tech-team1#6-javascript-door-farrahton)
