@@ -47,8 +47,12 @@ Op de pagina waarop klanten kunnen inloggen, kom ik erachter dat het probleem me
 
 ![](https://user-images.githubusercontent.com/90243819/159909533-3dde424d-5689-4ef0-a82f-7c866f16cfac.png)
 
-### 8. localStorage (door Lisanne)
-...
+Na het aanzetten van de cookies en het inloggen op de website, zijn de onderstaande cookies aangemaakt voor het domein https://www.vegan-store.eu.
 
-### B. Ad blockers (privacy) (door Lisanne)
-...
+![](https://user-images.githubusercontent.com/90243819/159912493-5ca97dcc-363c-4cbd-ac98-18e32aa4723c.png)
+
+### 8. localStorage (door Lisanne)
+Omdat localStorage alleen uitgeschakeld kan worden samen met de cookies, is het niet mogelijk om erachter te komen wat er zou gebeuren als enkel de localStorage uitstaat. Dat het inloggen niet werkt en de pop-ups niet verdwijnen, lijkt te liggen aan de cookies, omdat er in de localStorage geen data staan die hierover gaan.
+
+![](https://user-images.githubusercontent.com/90243819/159911747-9059297d-cc58-4dc5-bef8-34632e48cae2.png)
+![](https://user-images.githubusercontent.com/90243819/159911761-7db87a89-e4b7-4ce5-ada8-c40b9fcd5a84.png)
