@@ -15,7 +15,7 @@
     - [B. Ad blockers (door Jorn)](#b-ad-blockers-door-jorn)
     - [C. Browser detect (door Jorn)](#c-browser-detect-door-jorn)
 
-## [Opdracht 1](roel2407.github.io/browser-tech-team1/)
+## [Opdracht 1](https://roel2407.github.io/Browser-tech-team1/)
 
 ## Opdracht 2
 De website die wij hebben onderzocht is https://www.vegan-store.eu.
