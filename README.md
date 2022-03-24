@@ -2,7 +2,7 @@
 
 ## Opdracht 2:
 
-Table of contents:
+Table of contents:<br />
 [4. Muis en trackpad](https://github.com/ROEL2407/Browser-tech-team1#4-muistrackpad)<br />
 [4. Breedband internet](https://github.com/ROEL2407/Browser-tech-team1#5-breedband-internet-uitzetten)<br />
 
