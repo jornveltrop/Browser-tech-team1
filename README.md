@@ -25,8 +25,9 @@ Hieruit kunnen we opmerken dat ze geen ALT-tekst hebben toegevoegd, terwijl ze w
 
 ### 2. Custom fonts (door Marloes)
 Het probleem met custom fonts zijn dat deze soms niet geladen worden of dat de gebruiker ervoor kiest om deze niet te gebruiken.
-Via uBlock origin, dit is een adblocker die ook extra functionaliteiten heeft zoals het uitzetten van JavaScript of grote media bloken te blokkeren. via uBlcok origin kan je extere lettertypes blokkeren, de website veranderd verder niet dus ze maken geen gebruik van externe leterypes. Een optie om dit op te lossen zou zijn om altijd een fallback font te gebruiken die de meeste browsers kent. 
-De zoekbalk en winkelmandje maken gebruik van een icon font, zodra dit font er niet is het icoon niet meer zichtbaar, er blijft nog wel plek voor deze iconen gereserveerd door een vierkant. Echter wordt deze niet opgevuld met een fallback waardoor je nu als gebruiker niet weet wat er hoort te staan.
+Via uBlock origin, dit is een adblocker die ook extra functionaliteiten heeft zoals het uitzetten van JavaScript of grote media bloken te blokkeren. via uBlock origin kan je externe lettertypes blokkeren, de website veranderd verder niet dus ze maken geen gebruik van externe letertypes. Een optie om dit op te lossen zou zijn om altijd een fallback font te gebruiken die de meeste browsers kent.
+
+De zoekbalk en winkelmandje maken gebruik van een icon font. Zodra dit font er niet is het icoon niet meer zichtbaar, er blijft nog wel plek voor deze iconen gereserveerd door een vierkant. Echter wordt deze niet opgevuld met een fallback waardoor je nu als gebruiker niet weet wat er hoort te staan.
 
 Ervoor
 
@@ -52,7 +53,7 @@ Contrast jaar in footer
 
 <img width="250" alt="contrastjaar" src="https://user-images.githubusercontent.com/24413936/159946531-66395e0d-0ee1-42f3-bfbb-d67d10bdf17a.png">
 
-Met de contrast checker kan je ook meteen kijken hoe de website er voor iemand die kleurenblind is uitziet. Met deze extensie aan ben ik door de site heen gegaan. 
+Met de contrast checker kan je ook meteen kijken hoe de website eruit ziet voor iemand die kleurenblind is. Met deze extensie aan ben ik door de site heen gegaan. 
 De roze accenten veranderen wel van kleur maar de iconen blijven leesbaar.
 
 
@@ -63,10 +64,10 @@ De roze accenten veranderen wel van kleur maar de iconen blijven leesbaar.
 
 
 ### 4. Muis/trackpad (door Roel)
-Mensen met cognitieve problemen, fysieke problemen en mensen met problemen met de zintuigen. 
+Bij mensen die geen muis of trackpad kunnen gebruiken kan je denken aan mensen met cognitieve problemen, fysieke problemen en mensen met problemen met de zintuigen. 
 Hierbij kan je bijvoorbeeld denken aan blinde mensen.
 
-Door de pagina heen tabben gaat niet goed. Ik heb hiervoor gekozen om bij de login pagina te gaan tabben. Allereerst begin je gelijk bij de login. Hierna krijg je een aantal set tabs die niet zichtbaar zijn.
+In mijn ervaring bij de website gaat het door de pagina heen tabben niet goed. Ik heb hiervoor gekozen om bij de login pagina te gaan tabben. Allereerst begin je gelijk bij het loginform. Hierna krijg je een aantal set tabs die niet zichtbaar zijn.
 Daarna ga je langs de bovenste header. In deze header staat een language preference die uitklapt, hier tab je overigens niet door heen als je terug tabt. Focus state is voor sommige dingen wel anders vormgegeven dus hier kan een kleine verwarring van ontstaan.
 
 Als je enige tijd door tabt kom je bij de forgot password en signup links. Deze had ik persoonlijk bij het formulier zelf verwacht. 
@@ -83,7 +84,7 @@ Inspecteren > netwerk > dropdown waar standaard geen throttling in staat
 
 Hierbij zie ik geen erge fouten. De website wordt ingeladen, enkele blokken verschijnen eerst over elkaar maar dat wordt later opgelost. Afbeeldingen worden ook na de tekst pas ingeladen en worden eerst als onscherpe afbeelding ingeladen waarna deze scherper wordt.
 
-Je zou rekening kunnen houden met mensen die reizen, bijvoorbeeld met de trein. Deze wifi is niet geheel sterk en ook open dus er kunnen extra problemen hiermee doorkomen zoals het aantal gebruikers op de verbinding. In mijn is dit een probleem die verschilt per situatie. 
+Je zou rekening kunnen houden met mensen die reizen, bijvoorbeeld die reizen met de trein. Deze wifi is niet geheel sterk en ook open dus er kunnen extra problemen hiermee doorkomen zoals het aantal gebruikers op de verbinding. In mijn is dit een probleem die verschilt per situatie. 
 
 In mijn ogen zijn zullen de verschillen tussen landen zonder (100%) 4G en tijdelijke problemen niet heel veel verschillen met elkaar. De pagina laadt namelijk goed in op zowel langzaam als snel 3G.
 
@@ -93,11 +94,11 @@ In mijn ogen zijn zullen de verschillen tussen landen zonder (100%) 4G en tijdel
 
 In Chrome ga je naar preferences -> security & settings -> site setting -> content -> JavaScript
 
-Opmerkelijk is dat in combinatie met het uitzetten va nde afbeeldingen dat er niets meer in de plaats komt van de afbeeldingen. Het is dan helemaal leeg. 
+Opmerkelijk is dat in combinatie met het uitzetten van de afbeeldingen, er niets meer in de plaats komt van de afbeeldingen. Het is dan helemaal leeg. 
 <img width="1223" alt="geenImages+Java" src="https://user-images.githubusercontent.com/92303930/159916618-77c0c167-6d14-492d-9c57-ffd5afc94d9e.png">
 
 
-Alleen JavaScript uit zorgt voor een resultaat waarin de doorklik carousel niet meer werkt en de productfoto's daardoor allemaal onder elkaar staan. 
+Alleen JavaScript uitzetten zorgt voor een resultaat waarin de doorklik carousel niet meer werkt en de productfoto's daardoor allemaal onder elkaar staan. 
 <img width="1227" alt="javaUit" src="https://user-images.githubusercontent.com/92303930/159916673-ba971349-fc99-43f8-aeef-f1329bcc8fbf.png">
 
 
@@ -108,7 +109,7 @@ Hetzelfde geldt voor de zoekbalk. Er komen geen resultaten uit.
 <img width="1280" alt="zoeken" src="https://user-images.githubusercontent.com/92303930/159916786-e9027e17-6e8c-4382-b14d-0604c551f8d1.png">
 
 
-Je kan nog op login klikken en het formulier invullen en submitten, maar eenmaal op de volgende pagina is de Captcha gebroken. Je kan niet laten weten dat je geeb robot bent en kan daarom niet me de submit knop doorgaan. 
+Je kan nog op login klikken en het formulier invullen en submitten, maar eenmaal op de volgende pagina is de Captcha gebroken. Je kan niet laten weten dat je geen robot bent en kan daarom niet met de submit knop doorgaan. 
 <img width="1280" alt="captcha" src="https://user-images.githubusercontent.com/92303930/159916838-f1021d2c-bd82-4df1-83b4-5913c3615f23.png">
 
 De taal veranderen kan ook niet meer. 
@@ -133,6 +134,6 @@ Na het aanzetten van de cookies en het inloggen op de website, zijn de onderstaa
 ![](https://user-images.githubusercontent.com/90243819/159912493-5ca97dcc-363c-4cbd-ac98-18e32aa4723c.png)
 
 ### 8. localStorage (door Lisanne)
-Omdat localStorage alleen uitgeschakeld kan worden samen met de cookies, is het niet mogelijk om erachter te komen wat er zou gebeuren als enkel de localStorage uitstaat. Het pop-up probleeem lijkt enkel te liggen aan de cookies, omdat er in de localStorage geen data staat die hier invloed op zou kunnen hebben. Het niet kunnen inloggen zou hier wel te maken mee kunnen hebben, omdat mijn e-mailadres in de key "swym-authn" staat.
+Omdat localStorage alleen uitgeschakeld kan worden samen met de cookies, is het niet mogelijk om erachter te komen wat er zou gebeuren als enkel de localStorage uitstaat. Het pop-up probleem lijkt enkel te liggen aan de cookies, omdat er in de localStorage geen data staat die hier invloed op zou kunnen hebben. Het niet kunnen inloggen zou hier wel te maken mee kunnen hebben, omdat mijn e-mailadres in de key "swym-authn" staat.
 
 ![](https://user-images.githubusercontent.com/90243819/159914159-7d35bd9a-7907-4abe-9a6a-4e0dbfee50c6.png)
