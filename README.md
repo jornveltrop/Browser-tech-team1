@@ -1,13 +1,13 @@
-# Browser-tech-team1
+# Team Dikdik
 
-## Opdracht 2:
+## Inhoudsopgave
+- [Opdracht 2](#opdracht-2)
+  * [4. Muis en trackpad](https://github.com/ROEL2407/Browser-tech-team1#4-muistrackpad)
+  * [5. Breedband internet](https://github.com/ROEL2407/Browser-tech-team1#5-breedband-internet-uitzetten)
 
-Table of contents:<br />
-[4. Muis en trackpad](https://github.com/ROEL2407/Browser-tech-team1#4-muistrackpad)<br />
-[5. Breedband internet](https://github.com/ROEL2407/Browser-tech-team1#5-breedband-internet-uitzetten)<br />
+## Opdracht 2
 
-### 4. Muis/trackpad
-
+### 4. Muis/trackpad (door Roel)
 Mensen met cognitieve problemen, fysieke problemen en mensen met problemen met de zintuigen. 
 Hierbij kan je bijvoorbeeld denken aan blinde mensen.
 
@@ -18,11 +18,9 @@ Als je enige tijd door tabt kom je bij de forgot password en signup links. Deze 
 
 Je zou dit laatste probleem kunnen oplossen door de links binnen de form in de HTML te zetten of ten minste deze eronder.
 
-
 Hulpbron: [https://www.abilitynet.org.uk/factsheets/keyboard-and-mouse-alternatives-and-adaptations](https://www.abilitynet.org.uk/factsheets/keyboard-and-mouse-alternatives-and-adaptations)
 
-### 5. Breedband internet uitzetten
-
+### 5. Breedband internet uitzetten (door Roel)
 Door middel van throttling binnen de chrome browser heb ik getest hoe de ervaring is op een langzame 3g verbinding.
 
 Dit kan je doen door de volgende stappen te volgen:
