@@ -33,6 +33,31 @@ Erna
 
 <img width="250" alt="Zonder iconen" src="https://user-images.githubusercontent.com/24413936/159945896-84ad259b-9c74-43db-930d-2093410ff88d.png">
 
+### 3. Kleur uitzetten & kleurenblindheid (door Marloes)
+Via de instellingen van je Mac kan je kiezen voor grijswaarden om zo geen kleuren te zien, de website is al erg zwart wit en hierdoor is deze zonder kleur ook prima te gebruiken.
+
+<img width="1280" alt="Zwart wit website" src="https://user-images.githubusercontent.com/24413936/159946373-b5fad3b0-630d-4e0e-a178-8166e13a3420.png">
+
+De website is wit met zwarte tekst waardoor het voor iedereen leesbaar is. Via een contrast checker kan je zien dat het contrast bij een aantal elementen niet goed genoeg is zoals bij de tekst in de button en het jaar in de footer.
+
+Contrast button
+
+<img width="250" alt="contrastknop" src="https://user-images.githubusercontent.com/24413936/159946515-d8d3cb7c-e6c2-4f9b-a181-9d47f5512667.png">
+
+
+Contrast jaar in footer
+
+<img width="250" alt="contrastjaar" src="https://user-images.githubusercontent.com/24413936/159946531-66395e0d-0ee1-42f3-bfbb-d67d10bdf17a.png">
+
+Met de contrast checker kan je ook meteen kijken hoe de website er voor iemand die kleurenblind is uitziet. Met deze extensie aan ben ik door de site heen gegaan. 
+De roze accenten veranderen wel van kleur maar de iconen blijven leesbaar.
+
+
+<img width="343" alt="Contrast checker" src="https://user-images.githubusercontent.com/24413936/159946711-332c492a-1293-460f-a399-e11ce528f383.png">
+
+
+<img width="1280" alt="Kleurenblind" src="https://user-images.githubusercontent.com/24413936/159946771-86285012-22b5-476e-8add-3ac5637ccdfa.png">
+
 
 ### 4. Muis/trackpad (door Roel)
 Mensen met cognitieve problemen, fysieke problemen en mensen met problemen met de zintuigen. 
