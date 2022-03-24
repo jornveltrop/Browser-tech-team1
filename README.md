@@ -3,6 +3,8 @@
 ## Inhoudsopgave
 - [Opdracht 2](#opdracht-2)
   * [1. Afbeeldingen (door Farrahton)](https://github.com/ROEL2407/Browser-tech-team1#1-afbeeldingen-door-farrahton)
+  * [2. Custom fonts (door Marloes)](https://github.com/ROEL2407/Browser-tech-team1/#2-custom-fonts-door-marloes)
+  * [3. Kleur uitzetten & kleurenblindheid (door Marloes)](https://github.com/ROEL2407/Browser-tech-team1/#3-kleur-uitzetten--kleurenblindheid-door-marloes)
   * [4. Muis en trackpad (door Roel)](https://github.com/ROEL2407/Browser-tech-team1#4-muistrackpad-door-roel)
   * [5. Breedband internet (door Roel)](https://github.com/ROEL2407/Browser-tech-team1#5-breedband-internet-uitzetten-door-roel)
   * [6. JavaScript (door Farrahton)](https://github.com/ROEL2407/Browser-tech-team1#6-javascript-door-farrahton)
@@ -26,7 +28,8 @@ Het probleem met custom fonts zijn dat deze soms niet geladen worden of dat de g
 Via uBlock origin kan je extere letterypes blokkeren, de website veranderd verder niet dus ze maken geen gebruik van externe leterypes. 
 De zoekbalk en winkelmandje maken gebruik van een icon font, zodra dit font er niet is het icoon niet meer zichtbaar. 
 
-Ervoor <br />
+Ervoor
+
 <img width="250" alt="Met iconen" src="https://user-images.githubusercontent.com/24413936/159945711-e6315fa7-fee2-43a9-b8a8-e14c0e62bf3d.png">
 
 Erna
