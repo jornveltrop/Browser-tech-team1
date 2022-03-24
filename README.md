@@ -12,6 +12,7 @@
     - [6. JavaScript (door Farrahton)](#6-javascript-door-farrahton)
     - [7. Cookies (door Lisanne)](#7-cookies-door-lisanne)
     - [8. localStorage (door Lisanne)](#8-localstorage-door-lisanne)
+    - [B. Ad blockers (door Jorn)](#b-ad-blockers-door-jorn)
     - [C. Browser detect (door Jorn)](#c-browser-detect-door-jorn)
 
 ## Opdracht 2
@@ -140,6 +141,34 @@ Na het aanzetten van de cookies en het inloggen op de website, zijn de onderstaa
 Omdat localStorage alleen uitgeschakeld kan worden samen met de cookies, is het niet mogelijk om erachter te komen wat er zou gebeuren als enkel de localStorage uitstaat. Het pop-up probleem lijkt enkel te liggen aan de cookies, omdat er in de localStorage geen data staat die hier invloed op zou kunnen hebben. Het niet kunnen inloggen zou hier wel te maken mee kunnen hebben, omdat mijn e-mailadres in de key "swym-authn" staat.
 
 ![](https://user-images.githubusercontent.com/90243819/159914159-7d35bd9a-7907-4abe-9a6a-4e0dbfee50c6.png)
+
+
+
+### B. Ad blockers (door Jorn)
+<img width="317" alt="Schermafbeelding 2022-03-24 om 23 08 06" src="https://user-images.githubusercontent.com/74248007/160018507-4c7926d5-60a7-451c-8549-9851010180bb.png">
+
+Ad blockers zijn steeds populairder. 42,7% van de internet gebruikers wereldwijd zeggen een ad blocker te gebruiken. Deze ad blockers blokkeren automatisch advertentie sectie's op sites, maar ook facebook trackers en andere analytics. Dit gebeurt voordat deze geladen kunnen worden op een site, erg handig dus qua privacy en performance. Een site wordt namelijk aanzienlijk sneller als het niet alle advertenties en trackers hoeft te laden.
+
+Naast het verliezen van een (soms) belangrijke inkomsten bron die advertenties de websites brengen, zijn er nog andere nadelen.
+
+Er zit een nadeel in de statistieken van je site, omdat adblockers de trackers voor deze statistieken blokkeren. Dit geeft dus een vertekend beeld van je statistieken.
+
+<img width="884" alt="Schermafbeelding 2022-03-24 om 23 07 55" src="https://user-images.githubusercontent.com/74248007/160018683-2aa8538c-5247-438f-bb57-aad23ecc832f.png">
+
+Een ander nadeel is dat het kan zijn dat het adblockers filter systeem per ongeluk delen van je site ziet als advertenties en deze onterecht volledig weghaalt van je site. Dit is vooral iets om op te letten bij e-commerce sites. Deze sites bevatten namelijk producten met product beschrijvingen en call to actions die verkeerd geanalyseerd kunnen worden door de adblockers.
+
+Dit kan er voor zorgen dat de bezoeker van de site bepaalde items niet ziet. Het grote nadeel hiervan is dat de bezoeker van een site niet door heeft wat een adblocker weghaalt, want ... het is weg. 
+
+Als web developer kun je hier rekening mee houden door:
+- Pop-ups te vermijden 
+- Veel testen 
+- Aan elementen die weggehaald worden duidelijk maken dat het geen advertenties zijn.
+
+*Bronnen:* 
+
+[https://www.ionos.com/digitalguide/websites/web-design/adblockers-impact-on-web-development/](https://www.ionos.com/digitalguide/websites/web-design/adblockers-impact-on-web-development/)
+
+[https://backlinko.com/ad-blockers-users](https://backlinko.com/ad-blockers-users)
 
 
 ### C. Browser detect (door Jorn)
