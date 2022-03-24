@@ -2,8 +2,8 @@
 
 ## Inhoudsopgave
 - [Opdracht 2](#opdracht-2)
-  * [4. Muis en trackpad](https://github.com/ROEL2407/Browser-tech-team1#4-muistrackpad)
-  * [5. Breedband internet](https://github.com/ROEL2407/Browser-tech-team1#5-breedband-internet-uitzetten)
+  * [4. Muis en trackpad](https://github.com/ROEL2407/Browser-tech-team1#4-muistrackpad-door-roel)
+  * [5. Breedband internet](https://github.com/ROEL2407/Browser-tech-team1#5-breedband-internet-uitzetten-door-roel)
 
 ## Opdracht 2
 
