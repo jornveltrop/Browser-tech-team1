@@ -147,7 +147,7 @@ Browser detect of ook wel Browser sniffing wordt gebruikt om te achterhalen welk
 
 Welke browser gebruikt wordt kun je (in theorie) achterhalen door te kijken naar de 'User agent string'. Deze string wordt meegegeven in de HTTP Header.
 
-![image](https://user-images.githubusercontent.com/74248007/159980616-e6d28ad5-f02a-40e1-83e2-3a1b64c74bca.png)
+<img width="70%" alt="Schema HTTP Header User Agent" src="https://user-images.githubusercontent.com/74248007/159980616-e6d28ad5-f02a-40e1-83e2-3a1b64c74bca.png">
 
 Er zitten alleen een hoop haken en ogen aan Browser sniffing:
 
@@ -157,7 +157,7 @@ Er zitten alleen een hoop haken en ogen aan Browser sniffing:
 
 3. Browser willen helemaal niet gedetecteerd kunnen worden. De user agent string kan dan ook makkelijk worden veranderd in veel browsers. Zo geeft mijn eigen Chrome een string mee met bijna alle browser namen:
 
-<img width="375" alt="Schermafbeelding 2022-03-24 om 18 52 24" src="https://user-images.githubusercontent.com/74248007/159980577-9d7ab1a9-e5e4-43a4-95bb-05854433787c.png">
+<img width="375" alt="User Agent Jorn" src="https://user-images.githubusercontent.com/74248007/159980577-9d7ab1a9-e5e4-43a4-95bb-05854433787c.png">
 
 4. Als je dan eenmaal tóch een browser gedetecteerd hebt, kan het nog steeds zo zijn dat dit een hele oude versie is van de browser. Zo weet je dus nog niet of een feature wel of niet wordt ondersteund.
 
