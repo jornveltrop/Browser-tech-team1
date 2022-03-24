@@ -2,10 +2,14 @@
 
 ## Inhoudsopgave
 - [Opdracht 2](#opdracht-2)
-  * [4. Muis en trackpad](https://github.com/ROEL2407/Browser-tech-team1#4-muistrackpad-door-roel)
-  * [5. Breedband internet](https://github.com/ROEL2407/Browser-tech-team1#5-breedband-internet-uitzetten-door-roel)
+  * [4. Muis en trackpad (door Roel)](https://github.com/ROEL2407/Browser-tech-team1#4-muistrackpad-door-roel)
+  * [5. Breedband internet (door Roel)](https://github.com/ROEL2407/Browser-tech-team1#5-breedband-internet-uitzetten-door-roel)
+  * [7. Cookies (door Lisanne)](https://github.com/ROEL2407/Browser-tech-team1#7-cookies-door-lisanne)
+  * [8. localStorage (door Lisanne)](https://github.com/ROEL2407/Browser-tech-team1#8-localstorage-door-lisanne)
+  * [B. Ad blockers (privacy) (door Lisanne)](https://github.com/ROEL2407/Browser-tech-team1#b-ad-blockers-privacy-door-lisanne)
 
 ## Opdracht 2
+De website die wij hebben onderzocht is https://www.vegan-store.eu.
 
 ### 4. Muis/trackpad (door Roel)
 Mensen met cognitieve problemen, fysieke problemen en mensen met problemen met de zintuigen. 
@@ -33,3 +37,12 @@ Je zou rekening kunnen houden met mensen die reizen, bijvoorbeeld met de trein. 
 In mijn ogen zijn zullen de verschillen tussen landen zonder (100%) 4G en tijdelijke problemen niet heel veel verschillen met elkaar. De pagina laadt namelijk goed in op zowel langzaam als snel 3G.
 
 <img src="https://github.com/ROEL2407/Browser-tech-team1/blob/main/readme-images/breedband.png">
+
+### 7. Cookies (door Lisanne)
+...
+
+### 8. localStorage (door Lisanne)
+...
+
+### B. Ad blockers (privacy) (door Lisanne)
+...
