@@ -4,7 +4,7 @@
 - [Opdracht 2](#opdracht-2)
   * [1. Afbeeldingen (door Farrahton)](https://github.com/ROEL2407/Browser-tech-team1#1-afbeeldingen-door-farrahton)
   * [2. Custom fonts (door Marloes)](https://github.com/ROEL2407/Browser-tech-team1/#2-custom-fonts-door-marloes)
-  * [3. Kleur & kleurenblindheid (door Marloes)](https://github.com/ROEL2407/Browser-tech-team1/#3-kleur-kleurenblindheid-door-marloes)
+  * [3. Kleur & kleurenblindheid (door Marloes)](https://github.com/ROEL2407/Browser-tech-team1/#3-kleur--kleurenblindheid-door-marloes)
   * [4. Muis en trackpad (door Roel)](https://github.com/ROEL2407/Browser-tech-team1#4-muistrackpad-door-roel)
   * [5. Breedband internet (door Roel)](https://github.com/ROEL2407/Browser-tech-team1#5-breedband-internet-uitzetten-door-roel)
   * [6. JavaScript (door Farrahton)](https://github.com/ROEL2407/Browser-tech-team1#6-javascript-door-farrahton)
