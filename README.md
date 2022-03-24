@@ -11,6 +11,15 @@
 ## Opdracht 2
 De website die wij hebben onderzocht is https://www.vegan-store.eu.
 
+### 1. Afbeeldingen
+In Chrome ga je naar preferences -> security & settings -> site setting -> content -> images 
+
+Nu de foto's eenmaal uit staan, ziet de website er als volgt uit. Opvallend is dat de productafbeeldingen lazy worden geload en een styling hebben die de 'placeholder' voor een ongevonden foto wazig maakt. De foto bovenin de navigatiebalk heeft wel de 'placeholder'. 
+<img src="https://user-images.githubusercontent.com/92303930/159916272-66a80e3f-d919-443e-9b63-e046779f25b0.png">
+
+Hieruit kunnen we opmerken dat ze geen ALT-tekst hebben toegevoegd, terwijl ze wel een alt tag hebben. 
+<img width="1228" alt="altTag" src="https://user-images.githubusercontent.com/92303930/159916367-9c604698-26d9-4a7e-ba7d-0434d017498b.png">
+
 ### 4. Muis/trackpad (door Roel)
 Mensen met cognitieve problemen, fysieke problemen en mensen met problemen met de zintuigen. 
 Hierbij kan je bijvoorbeeld denken aan blinde mensen.
@@ -37,6 +46,36 @@ Je zou rekening kunnen houden met mensen die reizen, bijvoorbeeld met de trein. 
 In mijn ogen zijn zullen de verschillen tussen landen zonder (100%) 4G en tijdelijke problemen niet heel veel verschillen met elkaar. De pagina laadt namelijk goed in op zowel langzaam als snel 3G.
 
 <img src="https://user-images.githubusercontent.com/90243819/159915105-53e3f3fc-0e94-4d3c-bc76-c08a21c06b90.png">
+
+### 6. JavaScript
+
+In Chrome ga je naar preferences -> security & settings -> site setting -> content -> JavaScript
+
+Opmerkelijk is dat in combinatie met het uitzetten va nde afbeeldingen dat er niets meer in de plaats komt van de afbeeldingen. Het is dan helemaal leeg. 
+<img width="1223" alt="geenImages+Java" src="https://user-images.githubusercontent.com/92303930/159916618-77c0c167-6d14-492d-9c57-ffd5afc94d9e.png">
+
+
+Alleen JavaScript uit zorgt voor een resultaat waarin de doorklik carousel niet meer werkt en de productfoto's daardoor allemaal onder elkaar staan. 
+<img width="1227" alt="javaUit" src="https://user-images.githubusercontent.com/92303930/159916673-ba971349-fc99-43f8-aeef-f1329bcc8fbf.png">
+
+
+Je kan zonder JavaScript nog wel klikken op de dropdown menu linkjes en doorverwezen worden naar een nieuwe path. Echter, als je daar aankomt is de pagina helemaal leeg op de navigatie balk en de footer na.
+<img width="1280" alt="navMenShoes" src="https://user-images.githubusercontent.com/92303930/159916733-47f6f6d9-1700-49c5-98cb-96c72e0c191c.png">
+
+Hetzelfde geldt voor de zoekbalk. Er komen geen resultaten uit. 
+<img width="1280" alt="zoeken" src="https://user-images.githubusercontent.com/92303930/159916786-e9027e17-6e8c-4382-b14d-0604c551f8d1.png">
+
+
+Je kan nog op login klikken en het formulier invullen en submitten, maar eenmaal op de volgende pagina is de Captcha gebroken. Je kan niet laten weten dat je geeb robot bent en kan daarom niet me de submit knop doorgaan. 
+<img width="1280" alt="captcha" src="https://user-images.githubusercontent.com/92303930/159916838-f1021d2c-bd82-4df1-83b4-5913c3615f23.png">
+
+De taal veranderen kan ook niet meer. 
+Het is ook nog mogelijk om de betaalvaluta te veranderen. 
+Informatie die volgt na het klikken op help doet het nog wel. 
+
+Helaas als je een bestelling wilt volgen heb je weer pech, want alleen de path veranderd. Er komt geen informatie in beeld, zoals met JavaScript wel gebeurd.
+<img width="1224" alt="orderTrack" src="https://user-images.githubusercontent.com/92303930/159916903-dc86aa94-3bad-443a-a9f1-3bfae22b4216.png">
+<img width="1222" alt="orderWelGetracked" src="https://user-images.githubusercontent.com/92303930/159916933-90dbf3cc-84d7-480c-9f32-42748f59ca95.png">
 
 ### 7. Cookies (door Lisanne)
 Op de voorpagina komt er een pop-up in beeld, die met cookies in één klik te verbergen is. Zonder cookies blijft de pop-up een keer of vijf terugkomen, voordat het verdwijnt. Als de pagina herladen wordt, verschijnt de pop-up weer, evenals de "Visiting from outside Europe?" pop-up.
