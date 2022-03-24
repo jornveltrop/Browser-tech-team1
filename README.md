@@ -25,8 +25,8 @@ Hieruit kunnen we opmerken dat ze geen ALT-tekst hebben toegevoegd, terwijl ze w
 
 ### 2. Custom fonts (door Marloes)
 Het probleem met custom fonts zijn dat deze soms niet geladen worden of dat de gebruiker ervoor kiest om deze niet te gebruiken.
-Via uBlock origin kan je extere letterypes blokkeren, de website veranderd verder niet dus ze maken geen gebruik van externe leterypes. 
-De zoekbalk en winkelmandje maken gebruik van een icon font, zodra dit font er niet is het icoon niet meer zichtbaar. 
+Via uBlock origin, dit is een adblocker die ook extra functionaliteiten heeft zoals het uitzetten van JavaScript of grote media bloken te blokkeren. via uBlcok origin kan je extere lettertypes blokkeren, de website veranderd verder niet dus ze maken geen gebruik van externe leterypes. Een optie om dit op te lossen zou zijn om altijd een fallback font te gebruiken die de meeste browsers kent. 
+De zoekbalk en winkelmandje maken gebruik van een icon font, zodra dit font er niet is het icoon niet meer zichtbaar, er blijft nog wel plek voor deze iconen gereserveerd door een vierkant. Echter wordt deze niet opgevuld met een fallback waardoor je nu als gebruiker niet weet wat er hoort te staan.
 
 Ervoor
 
