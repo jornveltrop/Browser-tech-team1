@@ -21,6 +21,19 @@ Nu de foto's eenmaal uit staan, ziet de website er als volgt uit. Opvallend is d
 Hieruit kunnen we opmerken dat ze geen ALT-tekst hebben toegevoegd, terwijl ze wel een alt tag hebben. 
 <img width="1228" alt="altTag" src="https://user-images.githubusercontent.com/92303930/159916367-9c604698-26d9-4a7e-ba7d-0434d017498b.png">
 
+### 2. Custom fonts (door Marloes)
+Het probleem met custom fonts zijn dat deze soms niet geladen worden of dat de gebruiker ervoor kiest om deze niet te gebruiken.
+Via uBlock origin kan je extere letterypes blokkeren, de website veranderd verder niet dus ze maken geen gebruik van externe leterypes. 
+De zoekbalk en winkelmandje maken gebruik van een icon font, zodra dit font er niet is het icoon niet meer zichtbaar. 
+
+Ervoor <br />
+<img width="250" alt="Met iconen" src="https://user-images.githubusercontent.com/24413936/159945711-e6315fa7-fee2-43a9-b8a8-e14c0e62bf3d.png">
+
+Erna
+
+<img width="250" alt="Zonder iconen" src="https://user-images.githubusercontent.com/24413936/159945896-84ad259b-9c74-43db-930d-2093410ff88d.png">
+
+
 ### 4. Muis/trackpad (door Roel)
 Mensen met cognitieve problemen, fysieke problemen en mensen met problemen met de zintuigen. 
 Hierbij kan je bijvoorbeeld denken aan blinde mensen.
