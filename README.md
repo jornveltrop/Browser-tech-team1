@@ -2,16 +2,17 @@
 
 ## Inhoudsopgave
 - [Opdracht 2](#opdracht-2)
+  * [1. Afbeeldingen (door Farrahton](https://github.com/ROEL2407/Browser-tech-team1#1-afbeeldingen-door-farrahton)
   * [4. Muis en trackpad (door Roel)](https://github.com/ROEL2407/Browser-tech-team1#4-muistrackpad-door-roel)
   * [5. Breedband internet (door Roel)](https://github.com/ROEL2407/Browser-tech-team1#5-breedband-internet-uitzetten-door-roel)
+  * [6. JavaScript (door Farrahton)](https://github.com/ROEL2407/Browser-tech-team1#6-javascript-door-farrahton)
   * [7. Cookies (door Lisanne)](https://github.com/ROEL2407/Browser-tech-team1#7-cookies-door-lisanne)
   * [8. localStorage (door Lisanne)](https://github.com/ROEL2407/Browser-tech-team1#8-localstorage-door-lisanne)
-  * [B. Ad blockers (privacy) (door Lisanne)](https://github.com/ROEL2407/Browser-tech-team1#b-ad-blockers-privacy-door-lisanne)
 
 ## Opdracht 2
 De website die wij hebben onderzocht is https://www.vegan-store.eu.
 
-### 1. Afbeeldingen
+### 1. Afbeeldingen (door Farrahton)
 In Chrome ga je naar preferences -> security & settings -> site setting -> content -> images 
 
 Nu de foto's eenmaal uit staan, ziet de website er als volgt uit. Opvallend is dat de productafbeeldingen lazy worden geload en een styling hebben die de 'placeholder' voor een ongevonden foto wazig maakt. De foto bovenin de navigatiebalk heeft wel de 'placeholder'. 
@@ -47,7 +48,7 @@ In mijn ogen zijn zullen de verschillen tussen landen zonder (100%) 4G en tijdel
 
 <img src="https://user-images.githubusercontent.com/90243819/159915105-53e3f3fc-0e94-4d3c-bc76-c08a21c06b90.png">
 
-### 6. JavaScript
+### 6. JavaScript (door Farrahton)
 
 In Chrome ga je naar preferences -> security & settings -> site setting -> content -> JavaScript
 
