@@ -145,7 +145,7 @@ Omdat localStorage alleen uitgeschakeld kan worden samen met de cookies, is het 
 ### C. Browser detect (door Jorn)
 Browser detect of ook wel Browser sniffing wordt gebruikt om te achterhalen welke browser wordt gebruikt door de bezoeker van je site. Dit zou je kunnen gebruiken om speciale styling te laten zien, informatie te verzamelen over je bezoekers of om te checken of de browser een bepaalde feature support.
 
-Welke browser gebruikt wordt kun je (in theorie) achterhalen door te kijken naar de 'User agent string'. Deze string wordt meegegeven in de HTTP Header.
+Welke browser gebruikt wordt kun je (in theorie) achterhalen door te kijken naar de 'User agent string'. Deze string wordt meegegeven in de HTTP Headers.
 
 <img width="70%" alt="Schema HTTP Header User Agent" src="https://user-images.githubusercontent.com/74248007/159980616-e6d28ad5-f02a-40e1-83e2-3a1b64c74bca.png">
 
