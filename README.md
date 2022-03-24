@@ -1,15 +1,18 @@
 # Team Dikdik
 
 ## Inhoudsopgave
-- [Opdracht 2](#opdracht-2)
-  * [1. Afbeeldingen (door Farrahton)](https://github.com/ROEL2407/Browser-tech-team1#1-afbeeldingen-door-farrahton)
-  * [2. Custom fonts (door Marloes)](https://github.com/ROEL2407/Browser-tech-team1/#2-custom-fonts-door-marloes)
-  * [3. Kleur & kleurenblindheid (door Marloes)](https://github.com/ROEL2407/Browser-tech-team1/#3-kleur--kleurenblindheid-door-marloes)
-  * [4. Muis en trackpad (door Roel)](https://github.com/ROEL2407/Browser-tech-team1#4-muistrackpad-door-roel)
-  * [5. Breedband internet (door Roel)](https://github.com/ROEL2407/Browser-tech-team1#5-breedband-internet-uitzetten-door-roel)
-  * [6. JavaScript (door Farrahton)](https://github.com/ROEL2407/Browser-tech-team1#6-javascript-door-farrahton)
-  * [7. Cookies (door Lisanne)](https://github.com/ROEL2407/Browser-tech-team1#7-cookies-door-lisanne)
-  * [8. localStorage (door Lisanne)](https://github.com/ROEL2407/Browser-tech-team1#8-localstorage-door-lisanne)
+- [Team Dikdik](#team-dikdik)
+  - [Inhoudsopgave](#inhoudsopgave)
+  - [Opdracht 2](#opdracht-2)
+    - [1. Afbeeldingen (door Farrahton)](#1-afbeeldingen-door-farrahton)
+    - [2. Custom fonts (door Marloes)](#2-custom-fonts-door-marloes)
+    - [3. Kleur & kleurenblindheid (door Marloes)](#3-kleur--kleurenblindheid-door-marloes)
+    - [4. Muis/trackpad (door Roel)](#4-muistrackpad-door-roel)
+    - [5. Breedband internet uitzetten (door Roel)](#5-breedband-internet-uitzetten-door-roel)
+    - [6. JavaScript (door Farrahton)](#6-javascript-door-farrahton)
+    - [7. Cookies (door Lisanne)](#7-cookies-door-lisanne)
+    - [8. localStorage (door Lisanne)](#8-localstorage-door-lisanne)
+    - [C. Browser detect (door Jorn)](#c-browser-detect-door-jorn)
 
 ## Opdracht 2
 De website die wij hebben onderzocht is https://www.vegan-store.eu.
@@ -137,3 +140,37 @@ Na het aanzetten van de cookies en het inloggen op de website, zijn de onderstaa
 Omdat localStorage alleen uitgeschakeld kan worden samen met de cookies, is het niet mogelijk om erachter te komen wat er zou gebeuren als enkel de localStorage uitstaat. Het pop-up probleem lijkt enkel te liggen aan de cookies, omdat er in de localStorage geen data staat die hier invloed op zou kunnen hebben. Het niet kunnen inloggen zou hier wel te maken mee kunnen hebben, omdat mijn e-mailadres in de key "swym-authn" staat.
 
 ![](https://user-images.githubusercontent.com/90243819/159914159-7d35bd9a-7907-4abe-9a6a-4e0dbfee50c6.png)
+
+
+### C. Browser detect (door Jorn)
+Browser detect of ook wel Browser sniffing wordt gebruikt om te achterhalen welke browser wordt gebruikt door de bezoeker van je site. Dit zou je kunnen gebruiken om speciale styling te laten zien, informatie te verzamelen over je bezoekers of om te checken of de browser een bepaalde feature support.
+
+Welke browser gebruikt wordt kun je (in theorie) achterhalen door te kijken naar de 'User agent string'. Deze string wordt meegegeven in de HTTP Header.
+
+<img>
+
+Er zitten alleen een hoop haken en ogen aan Browser sniffing:
+
+1. Als je je code aanpast op specifieke browsers kan je site niet makkelijk aangepast worden en zal hij wellicht breken wanneer er een nieuwe browser gereleased wordt. Niet erg fijn te onderhouden dus.
+
+2. Browser Opera deed onderzoek naar browser sniffing en zegt dat het sommige browser blokkeerden van sites, terwijl deze prima zouden functioneren. 
+
+3. Browser willen helemaal niet gedetecteerd kunnen worden. De user agent string kan dan ook makkelijk worden veranderd in veel browsers. Zo geeft mijn eigen Chrome een string mee met bijna alle browser namen:
+
+<img>
+
+4. Als je dan eenmaal tóch een browser gedetecteerd hebt, kan het nog steeds zo zijn dat dit een hele oude versie is van de browser. Zo weet je dus nog niet of een feature wel of niet wordt ondersteund.
+
+*Oplossingen en alternatieven* hiervoor zijn:
+- Progressive enhancement 
+- Feature detection ipv. browser detection
+
+
+*Bronnen:*
+[https://medium.com/@markevan100/browser-sniffing-with-user-agent-is-it-always-bad-a420c172ea06](https://medium.com/@markevan100/browser-sniffing-with-user-agent-is-it-always-bad-a420c172ea06)
+
+[https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent)
+
+[https://www.sitepoint.com/why-browser-sniffing-stinks/](https://www.sitepoint.com/why-browser-sniffing-stinks/)
+
+[https://dev.opera.com/blog/perils-browser-sniffing/](https://dev.opera.com/blog/perils-browser-sniffing/)
