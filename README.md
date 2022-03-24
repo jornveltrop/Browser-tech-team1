@@ -31,3 +31,5 @@ Hierbij zie ik geen erge fouten. De website wordt ingeladen, enkele blokken vers
 Je zou rekening kunnen houden met mensen die reizen, bijvoorbeeld met de trein. Deze wifi is niet geheel sterk en ook open dus er kunnen extra problemen hiermee doorkomen zoals het aantal gebruikers op de verbinding. In mijn is dit een probleem die verschilt per situatie. 
 
 In mijn ogen zijn zullen de verschillen tussen landen zonder (100%) 4G en tijdelijke problemen niet heel veel verschillen met elkaar. De pagina laadt namelijk goed in op zowel langzaam als snel 3G.
+
+<img src="https://github.com/ROEL2407/Browser-tech-team1/blob/main/readme-images/breedband.png">
