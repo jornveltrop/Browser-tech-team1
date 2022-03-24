@@ -39,7 +39,13 @@ In mijn ogen zijn zullen de verschillen tussen landen zonder (100%) 4G en tijdel
 <img src="https://github.com/ROEL2407/Browser-tech-team1/blob/main/readme-images/breedband.png">
 
 ### 7. Cookies (door Lisanne)
-...
+Op de voorpagina komt er een pop-up in beeld, die met cookies in één klik te verbergen is. Zonder cookies blijft de pop-up een keer of vijf terugkomen, voordat het verdwijnt. Als de pagina herladen wordt, verschijnt de pop-up weer, evenals de "Visiting from outside Europe?" pop-up.
+
+![](https://user-images.githubusercontent.com/90243819/159908306-3bb654cf-a9d1-4882-9be3-4f2b2d0437aa.png)
+
+Op de pagina waarop klanten kunnen inloggen, kom ik erachter dat het probleem met de pop-up websitebreed is. Na de inloggegevens te hebben ingevuld en te hebben geklikt op "Login", kom ik op een 404 Not Found pagina. Na een seconde verschijnt de pop-up uiteraard weer (niet te zien in de screenshot).
+
+![](https://user-images.githubusercontent.com/90243819/159909533-3dde424d-5689-4ef0-a82f-7c866f16cfac.png)
 
 ### 8. localStorage (door Lisanne)
 ...
