@@ -162,8 +162,8 @@ Er zitten alleen een hoop haken en ogen aan Browser sniffing:
 4. Als je dan eenmaal tóch een browser gedetecteerd hebt, kan het nog steeds zo zijn dat dit een hele oude versie is van de browser. Zo weet je dus nog niet of een feature wel of niet wordt ondersteund.
 
 *Oplossingen en alternatieven* hiervoor zijn:
-- Progressive enhancement 
-- Feature detection ipv. browser detection
+- [Progressive enhancement](https://roel2407.github.io/Browser-tech-team1/) 
+- [Feature detection](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Feature_detection) ipv. browser detection
 
 
 *Bronnen:*
