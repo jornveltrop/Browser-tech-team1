@@ -52,7 +52,6 @@ Na het aanzetten van de cookies en het inloggen op de website, zijn de onderstaa
 ![](https://user-images.githubusercontent.com/90243819/159912493-5ca97dcc-363c-4cbd-ac98-18e32aa4723c.png)
 
 ### 8. localStorage (door Lisanne)
-Omdat localStorage alleen uitgeschakeld kan worden samen met de cookies, is het niet mogelijk om erachter te komen wat er zou gebeuren als enkel de localStorage uitstaat. Dat het inloggen niet werkt en de pop-ups niet verdwijnen, lijkt te liggen aan de cookies, omdat er in de localStorage geen data staan die hierover gaan.
+Omdat localStorage alleen uitgeschakeld kan worden samen met de cookies, is het niet mogelijk om erachter te komen wat er zou gebeuren als enkel de localStorage uitstaat. Het pop-up probleeem lijkt enkel te liggen aan de cookies, omdat er in de localStorage geen data staat die hier invloed op zou kunnen hebben. Het niet kunnen inloggen zou hier wel te maken mee kunnen hebben, omdat mijn e-mailadres in de key "swym-authn" staat.
 
-![](https://user-images.githubusercontent.com/90243819/159911747-9059297d-cc58-4dc5-bef8-34632e48cae2.png)
-![](https://user-images.githubusercontent.com/90243819/159911761-7db87a89-e4b7-4ce5-ada8-c40b9fcd5a84.png)
+![](https://user-images.githubusercontent.com/90243819/159914159-7d35bd9a-7907-4abe-9a6a-4e0dbfee50c6.png)
