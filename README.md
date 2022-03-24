@@ -36,7 +36,7 @@ Je zou rekening kunnen houden met mensen die reizen, bijvoorbeeld met de trein. 
 
 In mijn ogen zijn zullen de verschillen tussen landen zonder (100%) 4G en tijdelijke problemen niet heel veel verschillen met elkaar. De pagina laadt namelijk goed in op zowel langzaam als snel 3G.
 
-<img src="https://github.com/ROEL2407/Browser-tech-team1/blob/main/readme-images/breedband.png">
+<img src="https://user-images.githubusercontent.com/90243819/159915105-53e3f3fc-0e94-4d3c-bc76-c08a21c06b90.png">
 
 ### 7. Cookies (door Lisanne)
 Op de voorpagina komt er een pop-up in beeld, die met cookies in één klik te verbergen is. Zonder cookies blijft de pop-up een keer of vijf terugkomen, voordat het verdwijnt. Als de pagina herladen wordt, verschijnt de pop-up weer, evenals de "Visiting from outside Europe?" pop-up.
